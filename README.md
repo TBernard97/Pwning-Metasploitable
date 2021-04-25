@@ -15,6 +15,7 @@ Additional notes will be uploaded as I continue pwning this thing. Seperate file
 - ~~Tomcat exploitation (With Metasploit)~~
 - ~~Root via Dirty Cow~~
 - phpMyAdmin exploitation
+- ~~postgresql exploitation~~
 - Many more stuff I might find
 
 # Contributing
